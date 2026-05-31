@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "8f1bb141-9505-4551-ab19-1aed05e1464a"
+name: "synthesise-sprint-report"
+display_name: "Report Synthesis"
+description: "Combines status breakdown and velocity metrics into a stakeholder-ready sprint report"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-synthesise-sprint-report"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
