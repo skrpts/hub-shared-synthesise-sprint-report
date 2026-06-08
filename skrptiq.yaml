@@ -3,7 +3,7 @@ id: "1d8bc02b-1f37-4c9e-a5bc-45c5e38bd6e8"
 name: "synthesise-sprint-report"
 display_name: "Report Synthesis"
 description: "Combines status breakdown and velocity metrics into a stakeholder-ready sprint report"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
